@@ -1,0 +1,173 @@
+{
+  "barco": [
+    {
+      "id": 1,
+      "nome": "Riana",
+      "vela": "POR8389",
+      "proprietario": 1,
+      "abono": 0.810,
+      "matricula": "",
+      "capitania": "Lisboa",
+      "classe": "ANC",
+      "divisao": "D"
+    },
+    {
+      "id": 2,
+      "nome": "Step In",
+      "vela": "POR1164",
+      "proprietario": 2,
+      "abono": 1,
+      "matricula": "",
+      "capitania": "Lisboa",
+      "classe": "ANC",
+      "divisao": "A"
+    },
+    {
+      "id": 3,
+      "nome": "Nita",
+      "vela": "",
+      "proprietario": 3,
+      "abono": 1,
+      "matricula": "",
+      "capitania": "Lisboa",
+      "classe": "ANC",
+      "divisao": "D"
+    }
+  ],
+  "classificacao":[
+	{
+		"id": 1,
+		"barco": 1,
+		"prova": 1,
+		"lugar": 1,
+		"pontos": 1
+	},
+	{
+		"id": 2,
+		"barco": 1,
+		"prova": 2,
+		"lugar": 1,
+		"pontos": 1
+	},
+	{
+		"id": 3,
+		"barco": 1,
+		"prova": 3,
+		"lugar": 1,
+		"pontos": 1
+	},
+	{
+		"id": 4,
+		"barco": 1,
+		"prova": 4,
+		"lugar": 1,
+		"pontos": 1
+	}
+  ],
+  "prova":[
+	{
+		"id": 1,
+		"regata": 1,
+		"data": "",
+		"hora": ""
+	},
+	{
+		"id": 2,
+		"regata": 2,
+		"data": "",
+		"hora": ""
+	},
+	{
+		"id": 3,
+		"regata": 3,
+		"data": "",
+		"hora": ""
+	},
+	{
+		"id": 4,
+		"regata": 4,
+		"data": "",
+		"hora": ""
+	}
+  ],
+  "regata":[
+	{
+		"id": 1,
+		"nome": "Trofeu D. Luis I",
+		"organizador": 1,
+		"local": "Tejo / S. José de Ribamar",
+		"inicio": "20170128",
+		"fim": "20170128"
+	},
+	{
+		"id": 2,
+		"nome": "Regata Gilberto Sousa",
+		"organizador": 2,
+		"local": "Belém",
+		"inicio": "20170219",
+		"fim": "20170219"
+	},
+	{
+		"id": 3,
+		"nome": "Regata Descobreventos 2017",
+		"organizador": 1,
+		"local": "Tejo / S. José de Ribamar",
+		"inicio": "20170305",
+		"fim": "20170305"
+	},
+	{
+		"id": 4,
+		"nome": "Regata Arqº. Teixeira Fonseca",
+		"organizador": 2,
+		"local": "Belém",
+		"inicio": "20170311",
+		"fim": "20170311"
+	},
+	{
+		"id": 5,
+		"nome": "V Troféu Cidade de Almada",
+		"organizador": 4,
+		"local": "Cacilhas",
+		"inicio": "20170408",
+		"fim": "20170409"
+	}
+  ],
+  "organizador":[
+	{
+		"id": 1,
+		"nome": "Associação Naval de Lisboa",
+		"sigla": "ANL",
+		"morada": "Doca de Belém Lisboa 1400-038, Portugal",
+		"telefone": "213619480",
+		"fax": "213635861",
+		"mail": "info@anl.pt"
+	},
+	{
+		"id": 2,
+		"nome": "Clube Naval de Lisboa",
+		"sigla": "CNL",
+		"morada": "Cais do Gás, letra H, Lisboa 1200-109 Portugal",
+		"telefone": "213469354",
+		"fax": "918257680",
+		"mail": "info@clubenavaldelisboa.pt"
+	},
+	{
+		"id": 3,
+		"nome": "Sport Algés e Dafundo",
+		"sigla": "SAD",
+		"morada": "Av. Brasilia - Doca de Belém, Lisboa 1400-38",
+		"telefone": "213642984",
+		"fax": "213635192",
+		"mail": "vela@algesedafundo.pt"
+	},
+	{
+		"id": 4,
+		"nome": "Clube Nautico de Almada",
+		"sigla": "CNA",
+		"morada": "Largo Alfredo Dinis, Cacilhas, Almada 2800-252",
+		"telefone": "926158965",
+		"fax": "212760243",
+		"mail": ""
+	}
+  ]  
+}
